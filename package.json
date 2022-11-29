@@ -8,5 +8,8 @@
     "prettier-plugin-svelte": "^2.8.1",
     "svelte-preprocess": "^4.10.7",
     "vite": "^3.2.4"
+  },
+  "scripts": {
+    "dev": "vite dev"
   }
 }

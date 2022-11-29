@@ -7,5 +7,7 @@
   <title>Here's a title!</title>
 </svelte:head>
 
-<h1>Example reading data from a local SQLite database</h1>
+<main class="w-[95%] max-w-2xl mx-auto mt-48">
+<h1 class="text-3xl font-bold">Example reading data from a local SQLite database</h1>
 <p>Hello World!</p>
+</main>

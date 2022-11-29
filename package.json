@@ -12,5 +12,8 @@
   },
   "scripts": {
     "dev": "vite dev"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.0"
   }
 }
